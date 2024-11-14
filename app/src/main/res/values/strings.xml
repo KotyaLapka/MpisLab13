@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Lab 13. Smerdina Anastasia</string>
+
+    <string name="journal_empty">Журнал отсутствует</string>
+    <string name="journal_title">Журнал готов!</string>
+    <string name="hint">ID журнала</string>
+    <string name="download">Скачать</string>
+    <string name="watch">Просмотреть журнал</string>
+    <string name="delete">Удалить журнал</string>
+
+    <string name="alert_dialog_success">Успех</string>
+    <string name="alert_dialog_error">Ошибка</string>
+
+    <string name="alert_dialog_delete">Файл удален</string>
+    <string name="alert_dialog_nofile">Файл не найден</string>
+    <string name="alert_dialog_fileload">Файл успешно загружен</string>
+    <string name="alert_dialog_fillallfields">Заполните поле ввода ID журнала</string>
+
+    <string name="popup_title">Как работать с приложением</string>
+    <string name="popup_text">Приложение работает очень просто! Вам надо всего лишь ввести ID журнала и нажать кнопку «Скачать». После завершения загрузки Вы сможете просмотреть или удалить выпуск</string>
+    <string name="popup_checkobx">Больше не показывать</string>
+
+    <string name="author">Смердина Анастасия Валентиновна</string>
+    <string name="authorBtn">Автор</string>
+</resources>
